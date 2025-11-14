@@ -29,3 +29,10 @@ This project showcases:
 ---
 
 ## 📁 Folder Structure
+HTML-practice-day3/
+│── resume-project-html/
+│     ├── index.html
+│     ├── meenu.jpg
+│     └── README.md
+│
+└── README.md  (this file)
