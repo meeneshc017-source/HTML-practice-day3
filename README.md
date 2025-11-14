@@ -3,7 +3,7 @@
 This repository contains my Day 3 practice projects as part of my 120-Day Full Stack + GSoC 2026 Preparation Journey 🚀
 Today, I focused on building a Resume Project using pure HTML and practicing clean structure, navigation, and semantic elements.
 
-#📂 Projects Completed Today
+#📂 A Mini Project Completed Today
 ---
 ##1️⃣ Resume Project (HTML)
 ---
