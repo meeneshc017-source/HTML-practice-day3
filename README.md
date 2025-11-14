@@ -1,10 +1,10 @@
-📘 HTML Practice — Day 3
+#📘 HTML Practice — Day 3
 
 This repository contains my Day 3 practice projects as part of my 120-Day Full Stack + GSoC 2026 Preparation Journey 🚀
 Today, I focused on building a Resume Project using pure HTML and practicing clean structure, navigation, and semantic elements.
 
-📂 Projects Completed Today
-1️⃣ Resume Project (HTML)
+#📂 Projects Completed Today
+##1️⃣ Resume Project (HTML)
 
 A complete resume webpage built using HTML only.
 This includes:
@@ -23,9 +23,9 @@ FAQ section using <details> and <summary>
 
 Footer with copyright
 
-📁 Project Folder: resume-project-html/
+##📁 Project Folder: resume-project-html/
 
-🧠 Concepts Practiced Today
+##🧠 Concepts Practiced Today
 
 HTML document structure
 
@@ -41,7 +41,7 @@ Writing clean and readable HTML
 
 Creating a structured README for a project
 
-📁 Folder Structure
+##📁 Folder Structure
 HTML-practice-day3/
 │── resume-project-html/
 │     ├── index.html
@@ -50,7 +50,7 @@ HTML-practice-day3/
 │
 └── README.md   (this file)
 
-🚀 What’s Next?
+##🚀 What’s Next?
 
 For Day 4, I will:
 
@@ -62,7 +62,7 @@ Make the design responsive
 
 Add more sections and polish
 
-⭐ Connect With Me
+##⭐ Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/meenesh-chaudhary017
 
